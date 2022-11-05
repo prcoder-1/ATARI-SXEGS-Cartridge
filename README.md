@@ -40,3 +40,8 @@ And you need the ability to program the [SST39SF040](https://www.microchip.com/e
 To make a cartridge body, you need the ability to print models on a 3D printer. The model of the cartridge case and its cover is attached.
 
 ![Cartridge Housing Model](photos/FreeCAD_View.png)
+
+When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
+
+![Cartridge Housing Body](ATARI-Cartridge-v2-Body.stl]) ![Cartridge Housing Cover](ATARI-Cartridge-v2-Cover.stl])
+
