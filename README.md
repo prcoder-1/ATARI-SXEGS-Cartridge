@@ -36,3 +36,7 @@ And the following SMD 1206 parts are required to build a cartridge:
 Optional: Round Hole IC Socket Connector DIP32 (1pcs) for SST39SF040.
 
 And you need the ability to program the [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) Flash ROM, of course. Some sort of programmer like TL866II, or something else.
+
+To make a cartridge body, you need the ability to print models on a 3D printer. The model of the cartridge case and its cover is attached.
+
+![Cartridge Housing Model](photos/FreeCAD_View.png)
