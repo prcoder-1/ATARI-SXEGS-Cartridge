@@ -1,6 +1,6 @@
 # ATARI SXEGS Cartridge
 
-![Board and Housing](https://github.com/prcoder-1/ATARI-SXEGS-Cartridge/blob/master/photos/Board%20and%20Grey%20Housing.jpg)
+![Board and Housing](photos/Board%20and%20Grey%20Housing.jpg)
 
 ## Cartridge board for ATARI 65XE/130XE/800XE/800XL 8-bit computers based on SST39SF040 CMOS multi-purpose Flash memory chip.
 
