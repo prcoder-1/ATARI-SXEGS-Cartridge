@@ -20,3 +20,19 @@ Files:
 - ***[ATARI-Cartridge-v2-Cover.stl](ATARI-Cartridge-v2-Cover.stl)*** - 3D-model of cartridge housing cover
 
 **[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/W256652ASG3_XEGS_Cartridge_2022_11_05_4d701522.html)**
+
+The following DIP chips are required to build a cartridge:
+- SST39SF040 DIP32 (1pcs)
+- 74LS374N (or ЭКР1533ИЗ23) DIP20 (1pcs)
+- 74LS74N (or К555ТМ2) DIP14 (1pcs)
+- 74LS00N (or К555ЛА3) DIP14 (1pcs)
+
+And the following SMD 1206 parts are required to build a cartridge:
+- 100 nF capacitors (3 pcs)
+- 6.8 uF capacitor (1 pcs)
+- 11 kOhm resistors (6 pcs)
+- 3.3 kOhm resistor (1 pcs)
+
+Optional: Round Hole IC Socket Connector DIP32 (1pcs) for SST39SF040.
+
+And you need the ability to program the [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) Flash ROM, of course. Some sort of programmer like TL866II, or something else.
