@@ -19,4 +19,4 @@ Files:
 - ***ATARI-Cartridge-v2-Body.stl*** - 3D-model of cartridge housing body
 - ***ATARI-Cartridge-v2-Cover.stl*** - 3D-model of cartridge housing cover
 
-[![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway-1220.png)](https://www.pcbway.com/project/shareproject/W256652ASG3_XEGS_Cartridge_2022_11_05_4d701522.html)
+[Ready for use project on PCBWay](https://www.pcbway.com/project/shareproject/W256652ASG3_XEGS_Cartridge_2022_11_05_4d701522.html)
