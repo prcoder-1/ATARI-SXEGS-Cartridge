@@ -43,6 +43,6 @@ To make a cartridge body, you need the ability to print models on a 3D printer. 
 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
-[![Cartridge Housing Body](photos/Cartridge%20Housing%20Body%20\(small\).png)](ATARI-Cartridge-v2-Body.stl) [![Cartridge Housing Cover](photos/Cartridge%20Housing%20Cover%20\(small\).png)](ATARI-Cartridge-v2-Cover.stl) [![Grey Cartridge in ATARI](photos/Grey%20Cartridge%20in%20ATARI%20\(small\).jpg)]
+[![Cartridge Housing Body](photos/Cartridge%20Housing%20Body%20\(small\).png)](ATARI-Cartridge-v2-Body.stl) [![Cartridge Housing Cover](photos/Cartridge%20Housing%20Cover%20\(small\).png)](ATARI-Cartridge-v2-Cover.stl) [![Grey Cartridge in ATARI](photos/Grey%20Cartridge%20in%20ATARI%20\(small\).jpg)](Grey%20Cartridge%20in%20ATARI.jpg)
 
 © prcoder, 2022
