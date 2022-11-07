@@ -46,6 +46,6 @@ When assembling the case, no additional fasteners, screws or glue are required. 
 [![Cartridge Housing Body](photos/Cartridge%20Housing%20Body%20\(small\).png)](ATARI-Cartridge-v2-Body.stl)
 [![Cartridge Housing Cover](photos/Cartridge%20Housing%20Cover%20\(small\).png)](ATARI-Cartridge-v2-Cover.stl)
 [![Grey Cartridge in ATARI](photos/Grey%20Cartridge%20in%20ATARI%20\(small\).jpg)](photos/Grey%20Cartridge%20in%20ATARI.jpg)
-[![Black Cartridge](photos/Black%20Cartridge%20\(small\).jpg](photos/Black%20Cartridge.jpg)
+[![Black Cartridge](photos/Black%20Cartridge%20\(small\).jpg)](photos/Black%20Cartridge.jpg)
 
 © prcoder, 2022
