@@ -43,7 +43,7 @@ To make a cartridge body, you need the ability to print models on a 3D printer. 
 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
-[![Grey Cartridge with Red Logo in ATARI](photos/small/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)](photos/Grey%20Cartridge%20with%20REd%20Logo%20in%20ATARI.jpg)
+[![Grey Cartridge with Red Logo in ATARI](photos/small/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)
 [![Black Cartridge](photos/small/Black%20Cartridge.jpg)](photos/Black%20Cartridge.jpg)
 [![Grey Cartridge with Red Logo](photos/small/Grey%20Cartridge%20with%20Red%20Logo.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
 [![Assembled PCB 2](photos/small/Assembled%20PCB%202.jpg)](photos/Assembled%20PCB%202.jpg)
