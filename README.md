@@ -43,6 +43,15 @@ To make a cartridge body, you need the ability to print models on a 3D printer. 
 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
+Instructions for creating a binary firmware file to flash in SST39SF040:
+1. Download [CreaXin1](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) utilities and unpack it.
+2. Use 'Creaxin1.exe' utility from 'CreaXin1' folder to create 128 kB image file. Add XEX files to fill 128 kB ROM space and save as Xin1 SXEGS cartridge ROM file.
+3. Repeat step 2 four times to create four 128 kB images with different XEXs.
+4. Use 'XEGS merger.exe' utility from 'XEGS merger' folder to merge four 128 kB images into one 512 kB image. Add four 128 kB ROM images, choose 512 kB FLASH SIZE and press 'Create' button.
+   Enter name of the new SXEGS ROM file and save it.
+5. Flash 512 kB ROM image into SST39SF040. Erase ROM chip, write image and verify it.
+6. Place the written chip in round hole IC socket or solder it into PCB.
+
 [![Grey Cartridge with Red Logo in ATARI](photos/small/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)
 [![Black Cartridge](photos/small/Black%20Cartridge.jpg)](photos/Black%20Cartridge.jpg)
 [![Grey Cartridge with Red Logo](photos/small/Grey%20Cartridge%20with%20Red%20Logo.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
