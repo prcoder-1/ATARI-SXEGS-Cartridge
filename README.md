@@ -10,7 +10,7 @@
 - In the process of manufacturing a cartridge, microchips of Russian production can be used, such as **ЭКР1533ИР23**, **К555ТМ2**, **К555ЛА3** etc.
 
 The ROM files for the cartridge are created from the XEX files using the [CreaXin1](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) utility,
-and then merged using the [XEGS Merger](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) to combine four files into one, forming a total of 512 kb of ROM memory.
+and then merged using the [XEGS Merger](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) to combine four files into one, forming a total of ***512 kb of ROM*** memory.
 
 The cartridge body consists of two 3D-printed parts. The parts connect to each other without the use of screws or glue.
 
