@@ -23,7 +23,7 @@ Files:
 
 The following DIP chips are required to build a cartridge:
 - SST39SF040 DIP32 (1pcs)
-- 74LS374N (or ЭКР1533ИЗ23) DIP20 (1pcs)
+- 74LS374N (or ЭКР1533ИР23) DIP20 (1pcs)
 - 74LS74N (or К555ТМ2) DIP14 (1pcs)
 - 74LS00N (or К555ЛА3) DIP14 (1pcs)
 
