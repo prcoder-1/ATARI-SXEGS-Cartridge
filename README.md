@@ -1,6 +1,6 @@
 # ATARI SXEGS Cartridge
 
-![Board and Housing](photos/Board%20and%20Grey%20Housing.jpg)
+![Grey Cartridge with Red Logo.jpg](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
 
 ## Cartridge board and Housing for [ATARI 65XE/130XE/800XE](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8-bit computers based on [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) CMOS multi-purpose **Flash memory** chip.
 
@@ -19,7 +19,7 @@ Files:
 - ***[ATARI-Cartridge-v3-Body.stl](ATARI-Cartridge-v3-Body.stl)*** - 3D-model of cartridge housing body
 - ***[ATARI-Cartridge-v3-Cover.stl](ATARI-Cartridge-v3-Cover.stl)*** - 3D-model of cartridge housing cover
 
-**[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/W256652ASG3_XEGS_Cartridge_2022_11_05_4d701522.html)**
+**[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_8bit_SXEGS_Cartridge_Shrinked_Version_2022_11_10_3705ed31.html)**
 
 The following DIP chips are required to build a cartridge:
 - SST39SF040 DIP32 (1pcs)
@@ -39,7 +39,7 @@ And you need the ability to program the [SST39SF040](https://www.microchip.com/e
 
 To make a cartridge body, you need the ability to print models on a 3D printer. The model of the cartridge case and its cover is attached.
 
-![Cartridge Housing Model](photos/FreeCAD_View.png)
+![Cartridge Dimensions](photos/Cartridge%20Dimensions.png)
 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
@@ -56,6 +56,7 @@ Instructions for creating a binary firmware file to flash in SST39SF040:
 [![Black Cartridge](photos/small/Black%20Cartridge.jpg)](photos/Black%20Cartridge.jpg)
 [![Grey Cartridge with Red Logo](photos/small/Grey%20Cartridge%20with%20Red%20Logo.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
 [![Assembled PCB 2](photos/small/Assembled%20PCB%202.jpg)](photos/Assembled%20PCB%202.jpg)
+[![PCB Dimensions](photos/small/PCB%20Dimensions.png)](photos/PCB%20Dimensions.png)
 [![Cartridge Housing Body](photos/small/Cartridge%20Housing%20Body.png)](ATARI-Cartridge-v3-Body.stl)
 [![Cartridge Housing Cover](photos/small/Cartridge%20Housing%20Cover.png)](ATARI-Cartridge-v3-Cover.stl)
 
