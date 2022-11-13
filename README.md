@@ -2,7 +2,7 @@
 
 ![Grey Cartridge with Red Logo.jpg](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
 
-## Cartridge board and Housing for [ATARI 65XE/130XE/800XE](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8-bit computers based on [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) CMOS multi-purpose **Flash memory** chip.
+## Cartridge board and Housing for [ATARI 65XE/130XE/800XE/XEGS/1200XL/800XL/600XL/800/400](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8-bit computers based on [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) CMOS multi-purpose **Flash memory** chip.
 
 - This is a **[S/XEGS type cartridge](https://forums.atariage.com/topic/276194-switchable-xe-game-cartridges-swxegs-andor-sxegs/)** that allows you to store and run dozens of games.
 - The project **does not use** programmable logic chips such as [GAL-chips](https://en.wikipedia.org/wiki/Generic_array_logic).
