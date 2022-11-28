@@ -41,7 +41,7 @@ And you need the ability to program the [SST39SF040](https://www.microchip.com/e
 
 To make a cartridge body, you need the ability to print models on a 3D printer. The model of the cartridge case and its cover is attached.
 
-![Cartridge Dimensions](photos/Cartridge%20Dimensions.png)
+![Cartridge Model](photos/Cartridge%20Model.png)
 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
