@@ -9,6 +9,8 @@
 - Only conventional logic chips are used, such as **74LS00N**, **74LS74N** and **74LS374N**.
 - In the process of manufacturing a cartridge, microchips of Russian production can be used, such as **ЭКР1533ИР23**, **К555ТМ2**, **К555ЛА3** etc.
 
+![Cartridge Circuit](photos/Cartridge%20Circuit.png)
+
 The ROM files for the cartridge are created from the XEX files using the [CreaXin1](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) utility,
 and then merged using the [XEGS Merger](http://chomikuj.pl/ccwrc/users/XEGS/x_angel_ccwrc_atari_custom_cart,6059920787.7z(archive)) to combine four files into one, forming a total of **512 kb of ROM** memory.
 
