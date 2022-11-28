@@ -17,7 +17,7 @@ and then merged using the [XEGS Merger](http://chomikuj.pl/ccwrc/users/XEGS/x_an
 The cartridge body consists of two 3D-printed parts. The parts connect to each other without the use of screws or glue.
 
 Files:
-- ***[XEGS Cartridge_2022-11-10.zip](XEGS%20Cartridge_2022-11-10.zip)*** - archive with Gerber files for PCB manufacturing
+- ***[XEGS Cartridge_2022-11-28.zip](XEGS%20Cartridge_2022-11-28.zip)*** - archive with Gerber files for PCB manufacturing
 - ***[ATARI-Cartridge-v3-Body.stl](ATARI-Cartridge-v3-Body.stl)*** - 3D-model of cartridge housing body
 - ***[ATARI-Cartridge-v3-Cover.stl](ATARI-Cartridge-v3-Cover.stl)*** - 3D-model of cartridge housing cover
 
