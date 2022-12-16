@@ -55,8 +55,8 @@ Instructions for creating a binary firmware file to flash in SST39SF040:
 6. Place the written chip in round hole IC socket or solder it into PCB.
 
 [![Grey Cartridge with Red Logo in ATARI](photos/small/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo%20in%20ATARI.jpg)
-[![Black Cartridge](photos/small/Black%20Cartridge.jpg)](photos/Black%20Cartridge.jpg)
 [![Grey Cartridge with Red Logo](photos/small/Grey%20Cartridge%20with%20Red%20Logo.jpg)](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
+[![Black Cartridge](photos/small/Black%20Cartridge.jpg)](photos/Black%20Cartridge.jpg)
 [![Assembled PCB 2](photos/small/Assembled%20PCB%202.jpg)](photos/Assembled%20PCB%202.jpg)
 [![Blue and White Cartridge](photos/small/Blue%20and%20White%20Cartridge.jpg)](photos/Blue%20and%20White%20Cartridge.jpg)
 [![Blue PCB Closer](photos/small/Blue%20PCB%20Closer.jpg)](photos/Blue%20PCB%20Closer.jpg)
