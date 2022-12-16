@@ -61,6 +61,7 @@ Instructions for creating a binary firmware file to flash in SST39SF040:
 [![Blue and White Cartridge](photos/small/Blue%20and%20White%20Cartridge.jpg)](photos/Blue%20and%20White%20Cartridge.jpg)
 [![Blue PCB Closer](photos/small/Blue%20PCB%20Closer.jpg)](photos/Blue%20PCB%20Closer.jpg)
 [![Blue PCB and Housing](photos/small/Blue%20PCB%20and%20Housing.jpg)](photos/Blue%20PCB%20and%20Housing.jpg)
+[![Blue and Whte Logo](photos/small/Blue%20and%20White%20Logo.jpg)](photos/Blue%20and%20White%20Logo.jpg)
 [![PCB Model](photos/small/PCB%20Model.png)](photos/PCB%20Model.png)
 [![PCB Model in Housing](photos/small/PCB%20Model%20in%20Housing.png)](photos/PCB%20Model%20in%20Housing.png)
 [![PCB Dimensions](photos/small/PCB%20Dimensions.png)](photos/PCB%20Dimensions.png)
