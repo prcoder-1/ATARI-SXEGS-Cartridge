@@ -24,7 +24,7 @@ Files:
 **[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_8bit_SXEGS_Cartridge_Shrinked_Version_2022_11_10_3705ed31.html)**
 
 The following DIP chips are required to build a cartridge:
-- SST39SF040 DIP32 (1pcs)
+- SST39SF040 DIP32 (or other JEDEC standard ROM) (1pcs)
 - 74LS374N (or ЭКР1533ИР23) DIP20 (1pcs)
 - 74LS74N (or К555ТМ2) DIP14 (1pcs)
 - 74LS00N (or К555ЛА3) DIP14 (1pcs)
