@@ -1,6 +1,6 @@
 # ATARI SXEGS Cartridge
 
-![Grey Cartridge with Red Logo.jpg](photos/Grey%20Cartridge%20with%20Red%20Logo.jpg)
+![Magenta and White Cartridge.jpg](photos/Magenta%20and%20White%20Cartridge.jpg)
 
 ## Cartridge board and Housing for [ATARI 65XE/130XE/800XE/XEGS/1200XL/800XL/600XL/800/400](https://en.wikipedia.org/wiki/Atari_8-bit_family) 8-bit computers based on [SST39SF040](https://www.microchip.com/en-us/product/SST39SF040) CMOS multi-purpose **Flash memory** chip.
 
