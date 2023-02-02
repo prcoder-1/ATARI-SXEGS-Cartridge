@@ -71,4 +71,4 @@ Instructions for creating a binary firmware file to flash in SST39SF040:
 [![Cartridge PCB](photos/small/Cartridge%20PCB.png)](ATARI-Cartridge-v3-PCB.stl)
 [![Games Sample](photos/small/Games%20Sample.png)](photos/Games%20Sample.png)
 
-© prcoder, 2022
+© prcoder, 2022-2023
