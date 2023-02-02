@@ -11,8 +11,8 @@
 
 ![Cartridge Circuit](photos/Cartridge%20Circuit.png)
 
-The ROM files for the cartridge are created from the XEX files using the [CreaXin1](programs/Creaxin1.exe) utility,
-and then merged using the [XEGS Merger](programs/XEGS\ merger.exe) to combine four files into one, forming a total of **512 kb of ROM** memory.
+The ROM files for the cartridge are created from the XEX files using the ***[CreaXin1](programs/Creaxin1.exe)*** utility,
+and then merged using the ***[XEGS Merger](programs/XEGS\ merger.exe)*** to combine four files into one, forming a total of **512 kb of ROM** memory.
 
 The cartridge body consists of two 3D-printed parts. The parts connect to each other without the use of screws or glue.
 
@@ -46,7 +46,7 @@ To make a cartridge body, you need the ability to print models on a 3D printer. 
 When assembling the case, no additional fasteners, screws or glue are required. The case cover simply snaps into the body of the case, securing the PCB.
 
 Instructions for creating a binary firmware file to flash in SST39SF040:
-1. Download [CreaXin1](programs/Creaxin1.exe) and [XEGS\ Merger](programs/XEGS\ merger.exe) utilities.
+1. Download ***[CreaXin1](programs/Creaxin1.exe)*** and ***[XEGS Merger](programs/XEGS\ merger.exe)*** utilities.
 2. Use '***Creaxin1.exe***' utility to create ***128 kB image file***. Add XEX files to fill 128 kB ROM space and save as 'Xin1 SXEGS cartridge ROM' file.
 3. Repeat step 2 ***four times*** to create four 128 kB images with different XEXs.
 4. Use '***XEGS merger.exe***' utility to merge four 128 kB images into one ***512 kB image***. Add four 128 kB ROM images, choose 512 kB FLASH SIZE and press 'Create' button.
