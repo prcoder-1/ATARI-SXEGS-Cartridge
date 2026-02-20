@@ -18,8 +18,8 @@ The cartridge body consists of two 3D-printed parts. The parts connect to each o
 
 Files:
 - ***[XEGS Cartridge_2022-11-28.zip](XEGS%20Cartridge_2022-11-28.zip)*** - archive with Gerber files for PCB manufacturing
-- ***[ATARI-Cartridge-v3-Body.stl](ATARI-Cartridge-v5-Body.stl)*** - 3D-model of cartridge housing body
-- ***[ATARI-Cartridge-v3-Cover.stl](ATARI-Cartridge-v5-Cover.stl)*** - 3D-model of cartridge housing cover
+- ***[ATARI-Cartridge-v5-Body.stl](ATARI-Cartridge-v5-Body.stl)*** - 3D-model of cartridge housing body
+- ***[ATARI-Cartridge-v5-Cover.stl](ATARI-Cartridge-v5-Cover.stl)*** - 3D-model of cartridge housing cover
 
 **[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_8bit_SXEGS_Cartridge_Shrinked_Version_2022_11_10_3705ed31.html)**
 
