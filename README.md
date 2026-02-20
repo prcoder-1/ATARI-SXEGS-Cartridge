@@ -18,8 +18,8 @@ The cartridge body consists of two 3D-printed parts. The parts connect to each o
 
 Files:
 - ***[XEGS Cartridge_2022-11-28.zip](XEGS%20Cartridge_2022-11-28.zip)*** - archive with Gerber files for PCB manufacturing
-- ***[ATARI-Cartridge-v3-Body.stl](ATARI-Cartridge-v3-Body.stl)*** - 3D-model of cartridge housing body
-- ***[ATARI-Cartridge-v3-Cover.stl](ATARI-Cartridge-v3-Cover.stl)*** - 3D-model of cartridge housing cover
+- ***[ATARI-Cartridge-v3-Body.stl](ATARI-Cartridge-v5-Body.stl)*** - 3D-model of cartridge housing body
+- ***[ATARI-Cartridge-v3-Cover.stl](ATARI-Cartridge-v5-Cover.stl)*** - 3D-model of cartridge housing cover
 
 **[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_8bit_SXEGS_Cartridge_Shrinked_Version_2022_11_10_3705ed31.html)**
 
@@ -66,8 +66,8 @@ Instructions for creating a binary firmware file to flash in SST39SF040:
 [![PCB Dimensions](photos/small/PCB%20Dimensions.png)](photos/PCB%20Dimensions.png)
 [![PCB Model](photos/small/PCB%20Model.png)](photos/PCB%20Model.png)
 [![PCB Model in Housing](photos/small/PCB%20Model%20in%20Housing.png)](photos/PCB%20Model%20in%20Housing.png)
-[![Cartridge Housing Body](photos/small/Cartridge%20Housing%20Body.png)](ATARI-Cartridge-v3-Body.stl)
-[![Cartridge Housing Cover](photos/small/Cartridge%20Housing%20Cover.png)](ATARI-Cartridge-v3-Cover.stl)
+[![Cartridge Housing Body](photos/small/Cartridge%20Housing%20Body.png)](ATARI-Cartridge-v5-Body.stl)
+[![Cartridge Housing Cover](photos/small/Cartridge%20Housing%20Cover.png)](ATARI-Cartridge-v5-Cover.stl)
 [![Cartridge PCB](photos/small/Cartridge%20PCB.png)](ATARI-Cartridge-v3-PCB.stl)
 [![Games Sample](photos/small/Games%20Sample.png)](photos/Games%20Sample.png)
 
