@@ -21,7 +21,7 @@ Files:
 - ***[ATARI-Cartridge-v5-Body.stl](ATARI-Cartridge-v5-Body.stl)*** - 3D-model of cartridge housing body
 - ***[ATARI-Cartridge-v5-Cover.stl](ATARI-Cartridge-v5-Cover.stl)*** - 3D-model of cartridge housing cover
 
-**[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_8bit_SXEGS_Cartridge_Shrinked_Version_2022_11_10_3705ed31.html)**
+**[Ready to order project on PCBWay here](https://www.pcbway.com/project/shareproject/ATARI_SXEGS_Cartridge_775e0409.html)**
 
 The following DIP chips are required to build a cartridge:
 - SST39SF040 DIP32 (or other JEDEC standard ROM) (1pcs)
